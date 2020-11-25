@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "noImplicitAny": true
+  },
+  "files": ["index.ts"]
+}
